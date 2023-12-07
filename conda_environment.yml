@@ -1,0 +1,8 @@
+name: sleep_stn
+dependencies:
+ - python
+ - numpy
+ - matplotlib
+ - pandas
+ - scikit-learn
+ - signal
